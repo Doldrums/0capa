@@ -75,7 +75,7 @@ gem 'haml', '5.2.1'
 gem 'mail', '2.7.1'
 gem 'mocha', '1.11.2', require: false
 gem 'octokit', '4.20.0'
-gem 'rack', '2.2.3'
+gem 'rack', '2.2.3.1'
 gem 'rack-test', '1.1.0'
 gem 'rake', '13.0.3', require: false
 gem 'rubocop', '0.69.0', require: false
